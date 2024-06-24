@@ -1,0 +1,18 @@
+{
+    "title" : "title",
+    "desc" : "description",
+    "status" : "status",
+    "Action" : "Action",
+    "filter" : "filter", 
+    "ToDo" : "ToDo List" ,
+    "all" : "all" ,
+    "completed" : "completed",
+    "not completed" : "not completed",
+    "update" : "update",
+    "delete" : "delete",
+    "add new" : "Add new task",
+    "update item" : "update task",
+    "edit" : "edit",
+    "search" : "search"
+
+}
